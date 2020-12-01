@@ -1,0 +1,15 @@
+March 1st - Wrote the skeleton for the Tree, Forest, and Simulator classes. 
+			Then showed that I can generate a forest with trees as well as set a single tree on fire.
+
+March 1st-4th - Finished the nuts and bolts from the last day of work and wrote a draft of the fire
+				propagating from tree to tree.
+
+March 5th - De-bugged the fire propagation to get it working as desired and refactored the propagation
+			method to have all the repeated checks in a separate helper method.
+			
+March 5th pt2 - Created the getAveragePercentBurned method inside the simulator class to be able to
+				run a large number of trials through the NonGUI class to get usable data.
+				
+March 6th - Finished the odds and ends of the project and generated data to be used in order to create a graph.
+
+March 8th - Completely finished all data collecting and graphing then created the summary doc and turned it in. 
